@@ -23,7 +23,7 @@ int main()
         }
         else if (ipk >= 2.76 && ipk <= 3.00)
         {
-            printf("Predikat: Dengan Pujian\n");
+            printf("Predikat: Memuaskan\n");
         }
         else
         {
